@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Detector
 
 This project implements a car detection system using the YOLO (You Only Look Once) object detection algorithm and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking. It processes video input to identify and track vehicles and can be configured to use a mask and tracking lines.
@@ -73,3 +74,7 @@ Nitish Bhardwaj
 
 9. Contact
 For issues, questions, or professional inquiries, please contact [bhardwaj.11@iitj.ac.in].
+=======
+# Car-Detector-using-YOLOv8
+This repository will help you to build your own custom car detector. In this repo, I have take a particular camera position and created mask and tracking line for that particular camera position. Developer will need to update the tracking line, limits variable and the mask for the region in which they want to detect the cars.
+>>>>>>> 09c7399e068ebbe3faaa706e17141294c0a91207
