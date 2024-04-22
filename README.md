@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Car Detector
 
 This project implements a car detection system using the YOLO (You Only Look Once) object detection algorithm and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking. It processes video input to identify and track vehicles and can be configured to use a mask and tracking lines.
