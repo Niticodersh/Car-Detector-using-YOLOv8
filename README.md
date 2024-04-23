@@ -62,7 +62,11 @@ Configurable tracking lines for counting vehicles.
 Output
 The system outputs a video stream that shows detected and tracked vehicles, with vehicle counts displayed on the screen.
 
-![alt text]([https://github.com/username/repository/blob/branch/path/to/image.png](https://github.com/Niticodersh/Car-Detector-using-YOLOv8/blob/main/results.png))
+## Car Detection Results
+
+Here is the output of the Car Detector using YOLOv8:
+
+![Car Detector Results](https://github.com/Niticodersh/Car-Detector-using-YOLOv8/blob/main/results.png?raw=true)
 
 6. **Contributing**
 Contributions to this project are welcome. Please fork the repository and submit a pull request.
