@@ -39,7 +39,7 @@ This section describes how to set up and run the Car Detector application, inclu
 4. **Usage**
  To run the Car Detector, use the following command:
  ```bash
-  python car_detector.py --video-path <path_to_video> --mask-path <path_to_mask> --tracking-line <x1 y1 x2 y2>
+  python car_counter.py --video-path <path_to_video> --mask-path <path_to_mask> --tracking-line <x1 y1 x2 y2>
 ```
 Parameters
 
