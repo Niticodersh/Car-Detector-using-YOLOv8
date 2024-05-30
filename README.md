@@ -23,7 +23,7 @@ This section describes how to set up and run the Car Detector application, inclu
 2. **Create a virtual environment** 
 - For Unix/Linux/MacOS:
    ```bash
-   pyhton3 -m venv detector_venv
+   python3 -m venv detector_venv
    source detector_venv/bin/activate
    ```
 - For Windows:
